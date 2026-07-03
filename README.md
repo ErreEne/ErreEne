@@ -62,11 +62,11 @@ Numerical modelling of induction machines under conventional, cryogenic, and sup
 
 ## GitHub Stats
 
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigonobrepereira2002&show_icons=true&theme=transparent)
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErreEne&show_icons=true&theme=transparent)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigonobrepereira2002&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErreEne&layout=compact&theme=transparent)
 
 ## Interests
 
@@ -82,4 +82,4 @@ Numerical modelling of induction machines under conventional, cryogenic, and sup
 
 ---
 
-Bye bye
+Kisses
