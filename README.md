@@ -1,6 +1,6 @@
 # Hello 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&width=700&lines=Electrical+%26+Computer+Engineering+Graduate;Interested+in+Simulation%2C+Linux%2C+and+Developer+Tools;Modelling+Electrical+Machines+with+HTS+Materials)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&width=700&lines=Electrical+%26+Computer+Engineering+Graduate;Interested+in+Simulation%2C+Linux%2C+and+Developer+Tools)](https://git.io/typing-svg)
 
 I'm an Electrical and Computer Engineering graduate with an interest in numerical simulation, electromagnetic modelling, Linux systems, and software development. I enjoy building practical tools, improving my development workflow, and learning how engineering and programming can work together to solve real-world problems.
 
