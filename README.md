@@ -60,14 +60,6 @@ Numerical modelling of induction machines under conventional, cryogenic, and sup
 
 **Main topics:** COMSOL Multiphysics, FEM, induction machines, HTS superconductors, cryogenic operation, electromagnetic modelling.
 
-## GitHub Stats
-
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErreEne&show_icons=true&theme=transparent)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErreEne&layout=compact&theme=transparent)
-
 ## Interests
 
 - Electrical machines and propulsion systems
